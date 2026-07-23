@@ -56,7 +56,7 @@ No prior experience with AI infrastructure or high-performance computing is assu
 ## Recommended
 
 * Two NVIDIA DGX Spark systems
-* NVIDIA QSFP28 Direct Attach Cable
+* NVIDIA QSFP* (28/56/-DD) Direct Attach Cable
 * Managed Ethernet switch
 * Wireshark workstation
 
@@ -120,7 +120,7 @@ Examples include:
 
 * DGX Spark hardware
 * Ethernet
-* QSFP28 cabling
+* QSFP* (28/56/-DD) cabling
 * ConnectX-7 interfaces
 * Link verification
 

@@ -220,3 +220,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore everything in captures, but keep the placeholder
+captures/*
+!captures/.gitkeep
