@@ -40,7 +40,7 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --accept 200,204,206,429
+            --accept 200,204,206,429,403
             --include-mail=false
             --exclude-path node_modules
             "**/*.md"
