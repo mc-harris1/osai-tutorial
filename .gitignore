@@ -224,3 +224,5 @@ __marimo__/
 # Ignore everything in captures, but keep the placeholder
 captures/*
 !captures/.gitkeep
+
+network.txt
