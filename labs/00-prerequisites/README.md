@@ -174,7 +174,7 @@ Save the output under:
 
 ```text
 captures/
-└── baseline/
+└── lab00_prerequisites
 ```
 
 These files will become reference points throughout the tutorial.
